@@ -2,7 +2,7 @@
 
 My name is Nick.
 
-This GitHub currently holds all my final projects for USD's Masters in Applied Data Science Program. 
+This GitHub contains repositories for professional projects and for the final projects for USD's Masters in Applied Data Science Program (completed in August 2023),
 
 <!--
 **nlee98/nlee98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
