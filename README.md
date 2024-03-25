@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nick. I am a Bioinformatics Analyst at the Scripps Research Institute, where I work on back- and front-end development for web applications.
+My name is Nick. I am a Bioinformatics Analyst at the Scripps Research Institute, where I primarily work on back- and front-end development for web applications.
 
 This GitHub contains repositories for professional projects and for the final projects for USD's Masters in Applied Data Science Program (completed in August 2023),
 
